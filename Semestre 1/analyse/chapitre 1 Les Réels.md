@@ -18,8 +18,8 @@ $$\mathbb R \text{ :réel}$$
 $$\mathbb C \text{ :complex}$$
 
 # III inégalité
-$$\text{si } 0<a<b \Rightarrow\text{ tq }a<x<b\text{, prenant } x=\frac{a+b}2$$
-$$\text{soit }b\in\Re_+^* \Rightarrow \exists\space a\in \Re_+^* \text{ tq } 0<a<b \text{ prenant } x=\frac b 2 $$
+si $0<a<b \Rightarrow$ $\exists x>0$ tq $a<x<b$ prenant $x=\frac{a+b}2$$
+soit $b\in\Re_+^* \Rightarrow \exists\space a\in \Re_+^*$ tq $0<a<b \text{ prenant } x=\frac b 2$
 ### propriété fondamentale de $\Re$
 soient x $x,\epsilon > 0 \Rightarrow  \exists n\in\mathbb N^*$ tq $n\epsilon>x$
 
