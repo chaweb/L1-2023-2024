@@ -11,11 +11,11 @@ $$ x \in \mathbb {I} : \text{element de} $$
 
 # II Ensemble de nombres
 $$\mathbb N\subset\mathbb Z\subset\mathbb Q\subset\mathbb R\subset\mathbb C$$
-$$\mathbb N \text{ :naturel}$$
-$$\mathbb Z \text{ :relative}$$
-$$\mathbb Q \text{ :rationel}$$
-$$\mathbb R \text{ :réel}$$
-$$\mathbb C \text{ :complex}$$
+$\mathbb N$ :naturel
+$\mathbb Z$ :relatif
+$\mathbb Q$ :rationnel
+$\mathbb R$ :Réels
+$\mathbb C$ :complexe
 
 # III inégalité
 si $0< a< b \Rightarrow$ $\exists x\in \mathbb R_+^*$ tq $a< x< b$ prenant $x=\frac{a+b}2$
