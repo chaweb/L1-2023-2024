@@ -21,7 +21,7 @@ $$\mathbb C \text{ :complex}$$
 si $0< a< b \Rightarrow$ $\exists x\in \mathbb R_+^*$ tq $a< x< b$ prenant $x=\frac{a+b}2$
 soit $b\in\mathbb R_+^* \Rightarrow \exists\space a\in \mathbb R_+^*$ tq $0< a< b$ prenant $x=\frac b 2$
 ### propriété fondamentale de $\Re$
-soient x $x,\epsilon > 0 \Rightarrow  \exists n\in\mathbb N^*$ tq $n\epsilon>x$
+soient x $x,\epsilon \gt 0 \Rightarrow  \exists n\in\mathbb N^*$ tq $n\epsilon>x$
 
 ### Définition majorant
 soit $A\in p^*(\mathbb R)$ on dit que "$A$ est majoré" ssi $\exists M\in\Re$ tq $\forall x\in A\Rightarrow x \leq M$        
